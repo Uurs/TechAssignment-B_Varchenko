@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Payment App</string>
+    <!--    region UI Components -->
+    <string name="pin_pad_confirm_button">OK</string>
+    <!--    endregion UI Components -->
+
+    <!--    region Screen Purchase -->
+    <string name="screen_purchase_title">Purchase</string>
+    <string name="screen_purchase_subtitle">Please enter amount</string>
+    <string name="screen_purchase_message_no_internet">No internet connection</string>
+    <string name="screen_purchase_message_invalid_amount">Invalid amount. Please enter another amount to purchase</string>
+    <string name="screen_purchase_message_generic_error">An error occurred. Please try again</string>
+    <!--    endregion Screen Purchase-->
+
+    <!--    region Screen Receipt -->
+    <string name="screen_receipt_message_no_receipt">No receipt found. Please, try again later</string>
+    <string name="screen_receipt_success_icon_content_description">Success</string>
+    <string name="screen_receipt_label_transaction_id">Transaction id: %s</string>
+    <string name="screen_receipt_label_purchase_amount_with_currency">Purchase amount: %.2f %s</string>
+    <string name="screen_receipt_label_tax_and_tip">Tax: %.2f Tip: %.2f (Discount: %.2f)</string>
+    <string name="screen_receipt_label_final_amount">Final amount:\n%.2f</string>
+    <string name="screen_receipt_label_status_success">Success</string>
+    <string name="screen_receipt_label_status_failure">Failure</string>
+    <string name="screen_receipt_no_content_button_ok">OK</string>
+    <string name="screen_receipt_button_ok">OK</string>
+    <!--    endregion Screen Receipt &ndash;&gt;-->
+</resources>

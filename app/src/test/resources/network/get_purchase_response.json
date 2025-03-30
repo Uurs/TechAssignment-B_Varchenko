@@ -1,0 +1,1 @@
+{"transactionId":"12345","status":"Success","amount":{"purchaseAmount":"100.00","currency":"USD","taxableAmount":"90.00","taxRate":"0.10","tipAmount":"10.00","discountAmount":"5.00"},"transactionDetails":{"timestamp":"2025-01-24T12:30:00Z"}}
